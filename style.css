@@ -1,0 +1,98 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+
+}
+hr{
+	width: 120px;
+	border-bottom: 2px solid #DFE8ED;
+}
+a{
+	text-decoration: none;
+	color: #FFF;
+	font-style: none;
+}
+ul li a:hover{
+	background: #643A79;
+	color:#FFF;
+	
+}
+p.social-media a{
+	width: 34px;
+	height: 34px;
+	padding: 5px;
+	text-align: center;
+	display: inline-block;
+	padding: 5px 1px;
+	border-radius: 50%;
+	background:#BDD1DF;
+
+}
+.social-media {
+	text-align: center;
+}
+#header-area{
+
+	background: #87509C;
+	min-height: 580px;
+}
+#service-area{
+	background: #17C2A4;
+	min-height: 580px;
+}
+#service-area img{
+	height: 30%;
+	width: auto;
+}
+.team-area{
+	font-color:#3C4761;
+	background: #E7F1F8;
+	min-height: 580px;
+}
+.team-area img{
+	width: 50%;
+	height: auto;
+}
+#portfolio-area{
+	background: #FFDD99;
+	min-height: 580px;
+}
+#portfolio-area img{
+	width: 75%;
+	min-height: auto;
+}
+#about-area{
+	background: #D74680;
+	min-height: 580px;
+	width:auto;
+}
+#about-area img{
+	width: 40%;
+	height: auto;
+}
+footer{
+	min-height: 580px;
+	background: #3C5499;
+}
+#footer-area input{
+	margin-top: 30px;
+	background: #273A71;
+	border-color: transparent;
+
+}
+#footer-area textarea{
+	background: #273A71;
+	border-color: transparent;
+}
+#footer-area .col{
+	width: 70%;
+	margin:auto;
+}
+.footer-bottom{
+	background: #273A71;
+	min-height: 100px;
+}
+ul ol a:hover{
+	text-decoration: none;
+	color: #3C5499;
+	
+}
